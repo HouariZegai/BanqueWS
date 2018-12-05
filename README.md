@@ -12,5 +12,5 @@ Banking Web Services using SOAP & Swing GUI
 * Simple to use 
 * You can view/edit balance
 
-# Instalation
+# Installation
 * Clone the project ` git clone https://github.com/HouariZegai/BanqueWS.git`
